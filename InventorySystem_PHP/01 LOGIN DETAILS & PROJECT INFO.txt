@@ -1,0 +1,11 @@
+**Database Name: inventory_system**
+
+**Admin Login Details**
+
+Username: admin
+Password: admin
+
+**User(Employee) Login Details**
+
+Username: user
+Password: user 
